@@ -22,7 +22,7 @@ eg: brandy, rakia, ...
 
 [Lime gin - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20lime.md)
 
-[Makrut - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%makrut.md)
+[Makrut - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20makrut.md)
 
 [Pink rosemary & bayleaf gin - 27 August 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/27.08.2021%20-%20pink%20rosemary%20%26%20bayleaf.md)
 
