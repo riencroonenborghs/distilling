@@ -18,8 +18,8 @@ eg: brandy, rakia, ...
 
 ## Gin
 
-[Aged gin - 1 September 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2021%20-%20aged%20gin.md)
+[Aged gin - 1 September 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2021%20-%20aged.md)
 
-[Lime gin - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20lime%20gin.md)
+[Lime gin - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20lime.md)
 
 [Pink rosemary & bayleaf gin - 27 August 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/27.08.2021%20-%20pink%20rosemary%20%26%20bayleaf.md)
