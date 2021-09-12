@@ -2,7 +2,17 @@
 
 A collection of my recipes and notes from my distilling adventures.
 
-## Eau de vie
+## Notes
+
+[Ageing tips](https://github.com/riencroonenborghs/distilling/blob/master/notes/ageing%20notes.md)
+
+[Cloudy gin](https://github.com/riencroonenborghs/distilling/blob/master/notes/cloudy%20gin.md)
+
+[Puking](https://github.com/riencroonenborghs/distilling/blob/master/notes/puking.md)
+
+## Recipes
+
+### Eau de vie
 
 eg: brandy, rakia, ...
 
@@ -16,7 +26,7 @@ eg: brandy, rakia, ...
 
 [Raspberry - 15 August 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/15.08.2020%20-%20raspberry.md)
 
-## Gin
+### Gin
 
 [Aged gin - 1 September 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2021%20-%20aged.md)
 
@@ -27,3 +37,7 @@ eg: brandy, rakia, ...
 [Pink rosemary & bayleaf gin - 27 August 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/27.08.2021%20-%20pink%20rosemary%20%26%20bayleaf.md)
 
 [Star anise - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20star%20anise.md)
+
+### Rum
+
+[Pineapple rum - August 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/08.2021%20-%20pineapple.md)
