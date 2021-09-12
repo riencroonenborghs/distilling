@@ -4,7 +4,7 @@ A collection of my recipes and notes from my distilling adventures.
 
 ## Notes
 
-[Ageing tips](https://github.com/riencroonenborghs/distilling/blob/master/notes/ageing%20notes.md)
+[Ageing tips](https://github.com/riencroonenborghs/distilling/blob/master/notes/ageing%20tips.md)
 
 [Cloudy gin](https://github.com/riencroonenborghs/distilling/blob/master/notes/cloudy%20gin.md)
 
