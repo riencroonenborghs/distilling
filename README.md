@@ -40,6 +40,8 @@ eg: brandy, rakia, ...
 
 ### Rum
 
+[Rum - October 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/rum/10.2021%20-%20rum.md)
+
 [Pineapple rum - August 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/rum/08.2021%20-%20pineapple.md)
 
 ### Whiskey
