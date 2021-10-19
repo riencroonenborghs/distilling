@@ -10,6 +10,10 @@ A collection of my recipes and notes from my distilling adventures.
 
 [Puking](https://github.com/riencroonenborghs/distilling/blob/master/notes/puking.md)
 
+[Dunder](https://github.com/riencroonenborghs/distilling/blob/master/notes/dunder.md)
+
+[Golden rum](https://github.com/riencroonenborghs/distilling/blob/master/notes/golden%20rum.md)
+
 ## Recipes
 
 ### Eau de vie
@@ -41,6 +45,8 @@ eg: brandy, rakia, ...
 ### Rum
 
 [Rum - October 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/rum/10.2021%20-%20rum.md)
+
+[Spiced rum - October 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/rum/10.2021%20-%20spiced%20rum.md)
 
 [Pineapple rum - August 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/rum/08.2021%20-%20pineapple.md)
 
