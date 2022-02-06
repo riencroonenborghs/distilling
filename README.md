@@ -56,4 +56,4 @@ eg: brandy, rakia, ...
 
 [Cornflakes whiskey - April 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/04.2021%20-%20cornflakes.md)
 
-[Franken-Whiskey-Rum - Februaru 2022](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20franken-whiskey-rum.md)
+[Franken-Whiskey-Rum - February 2022](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2022%20-%20franken-whiskey-rum.md)
