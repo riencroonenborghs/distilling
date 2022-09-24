@@ -42,6 +42,10 @@ eg: brandy, rakia, ...
 
 [Star anise - 1 September 2020](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20star%20anise.md)
 
+[Pineapple sage - 25 September 2022](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/25.09.2022%20-%20pineapple%20sage.md)
+
+[Fejioa - 25 September 2022](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/25.09.2022%20-%20feijoa.md)
+
 ### Rum
 
 [Rum - October 2021](https://github.com/riencroonenborghs/distilling/blob/master/recipes/rum/10.2021%20-%20rum.md)
