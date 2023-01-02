@@ -74,5 +74,5 @@
   - Required alcohol: 45
   - Add water: 1.488888889L
 
-![Spirit run](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/15.08.2020%20-%20raspberry%201.jpeg?raw=true "Spirit run")
-![Spirits](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/15.08.2020%20-%20raspberry%202.jpeg?raw=true "Spirits")
+![Spirit run](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/raspberry%20-%202020.08.15%20-%201.jpeg?raw=true "Spirit run")
+![Spirits](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/raspberry%20-%202020.08.15%20-%202.jpeg?raw=true "Spirits")

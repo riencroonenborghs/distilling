@@ -78,7 +78,7 @@
   - Required alcohol: 43
   - Add water: 0L
 
-![Stripping run](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/14.06.2020%20-%20boysenberry%201.jpeg?raw=true "Stripping run")
-![Stripping run alcometer](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/14.06.2020%20-%20boysenberry%202.jpeg?raw=true "Stripping run alcometer")
-![Spirits](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/14.06.2020%20-%20boysenberry%203.jpeg?raw=true "Spirits")
-![Bottled](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/14.06.2020%20-%20boysenberry%204.jpeg?raw=true "Bottled")
+![Stripping run](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/boysenberry%20-%202020.06.14%20-%201.jpeg?raw=true "Stripping run")
+![Stripping run alcometer](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/boysenberry%20-%202020.06.14%20-%202.jpeg?raw=true "Stripping run alcometer")
+![Spirits](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/boysenberry%20-%202020.06.14%20-%203.jpeg?raw=true "Spirits")
+![Bottled](https://github.com/riencroonenborghs/distilling/blob/master/recipes/eau%20de%20vie/boysenberry%20-%202020.06.14%20-%204.jpeg?raw=true "Bottled")

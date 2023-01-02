@@ -1,4 +1,6 @@
-# Cloudy Gin
+# Gin
+
+## Cloudy Gin
 
 When diluting gin with water, it is possible that the gin turns cloudy.
 

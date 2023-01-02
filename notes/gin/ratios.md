@@ -1,4 +1,6 @@
-# Ratios
+# Gin
+
+## Ratios
 
 The total number of botanicals used is about 20-35 grams/litre. If we take the dominant botanical juniper as 'x', the proportions of the botanicals used is:
 

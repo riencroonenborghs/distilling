@@ -40,5 +40,5 @@ Lightly crushed the juniper berries, coriander seeds and grains of paradise. Mad
   - Target: 45%
   - Add 0.3555555556 water.
 
-![Maceration](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20star%20anise%201.jpeg?raw=true "Maceration")
-![78%](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20star%20anise%202.jpeg?raw=true "78%")
+![Maceration](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/star%20anise%20-%202020.09.01%20-%201.jpeg?raw=true "Maceration")
+![78%](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/star%20anise%20-%202020.09.01%20-%202.jpeg?raw=true "78%")

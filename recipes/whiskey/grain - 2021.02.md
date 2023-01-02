@@ -69,12 +69,12 @@ Second small jar tasted like bread, but no funky taste, just different from the 
 
 No idea what I did anymore. Notes lost :(
 
-![yeast](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%201.jpeg?raw=true "yeast")
-![buckets](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%202.jpeg?raw=true "buckets")
-![stripping run jars](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%203.jpeg?raw=true "stripping run jars")
-![puking](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%204.jpeg?raw=true "puking")
-![stream](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%205.jpeg?raw=true "stream")
-![alcometer](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%206.jpeg?raw=true "alcometer")
-![wood selection #1](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%207.jpeg?raw=true "wood selection #1")
-![wood selection #2](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%208.jpeg?raw=true "wood selection #2")
-![rum chips](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/02.2021%20-%20grain%209.jpeg?raw=true "rum chips")
+![yeast](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%201.jpeg?raw=true "yeast")
+![buckets](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%202.jpeg?raw=true "buckets")
+![stripping run jars](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%203.jpeg?raw=true "stripping run jars")
+![puking](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%204.jpeg?raw=true "puking")
+![stream](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%205.jpeg?raw=true "stream")
+![alcometer](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%206.jpeg?raw=true "alcometer")
+![wood selection #1](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%207.jpeg?raw=true "wood selection #1")
+![wood selection #2](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%208.jpeg?raw=true "wood selection #2")
+![rum chips](https://github.com/riencroonenborghs/distilling/blob/master/recipes/whiskey/grain%20-%202021.02%20-%209.jpeg?raw=true "rum chips")

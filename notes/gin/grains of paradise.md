@@ -1,4 +1,6 @@
-# Grains of paradise
+# Gin
+
+## Grains of paradise
 
 Grains of paradise are an odd but handy component of gin, as they are one of the spicy botanicals that help to balance out the sweeter flavours. They look a lot like black peppercorns but are actually more closely related to ginger.
 

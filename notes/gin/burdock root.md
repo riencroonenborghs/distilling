@@ -1,4 +1,6 @@
-# Burdock root
+# Gin
+
+## Burdock root
 
 Burdock root is another of those botanicals we sell that’s not used in many gins, but certainly can be. It’s also got a couple of other key uses for which it’s better known: bitters and brewed beverages.
 

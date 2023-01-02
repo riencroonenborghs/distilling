@@ -1,4 +1,6 @@
-# Kola Nut
+# Gin
+
+## Kola Nut
 
 ### Taste
 

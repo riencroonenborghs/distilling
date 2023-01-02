@@ -1,4 +1,6 @@
-# Orris root
+# Gin
+
+## Orris root
 
 Orris root is the root of the iris plant. It is one of the most important and commonly used botanicals in gin, acting as both a fixative and a flavouring in itself.
 

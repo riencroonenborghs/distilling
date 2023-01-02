@@ -1,6 +1,6 @@
 # Gin
 
-## Frankengin (15 December 2022)
+## Kitchen sink gin (15 December 2022)
 
 ### Recipe
 
@@ -16,4 +16,4 @@
   - 0.2g orris root
   - 1 cardamom pod
   - peel of 1/2 orange
-  - 
+  

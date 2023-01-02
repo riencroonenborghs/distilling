@@ -41,5 +41,5 @@ Lightly crushed the juniper berries, coriander seeds, grains of paradise and mak
   - Add 0.2547169811 water.
   I'd like to water it down to 40°, but don't want to have a second bottle with only a little in it, so 53° it is!
 
-![Maceration](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20makrut%201.jpeg?raw=true "Maceration")
-![78%](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/01.09.2020%20-%20makrut%202.jpeg?raw=true "78%")
+![Maceration](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/makrut%20-%202020.09.01%20-%201.jpeg?raw=true "Maceration")
+![78%](https://github.com/riencroonenborghs/distilling/blob/master/recipes/gin/makrut%20-%202020.09.01%20-%202.jpeg?raw=true "78%")

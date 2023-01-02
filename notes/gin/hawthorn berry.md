@@ -1,9 +1,11 @@
-# Hawthorn berry
+# Gin
 
-#### Taste
+## Hawthorn berry
+
+### Taste
 
 Nutrient-rich berries have a tart, tangy taste and mild sweetness.
 
-#### Usage
+### Usage
 
 Steeping

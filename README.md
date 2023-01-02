@@ -1,4 +1,4 @@
 # Distilling
 
-A collection of my recipes and notes from my distilling adventures.
+A collection of recipes and notes from my distilling adventures.
 

@@ -11,11 +11,6 @@
   - 12g pineapple sage
   - 0.5g nutmeg chips
   - 1 black cardamom pod
-
-### Maceration
-
-Macerated 25 September - 
-
-### Distilling
+  - 
 
   
